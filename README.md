@@ -1,1 +1,4 @@
 # AutoML
+
+#Usage
+##Clone repo
